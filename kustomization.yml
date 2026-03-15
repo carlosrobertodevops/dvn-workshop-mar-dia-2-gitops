@@ -6,11 +6,14 @@ resources:
 - frontend/deploy.yml
 - frontend/service.yml
 
+
 images:
+- name: /workshop/production/backend
+  newName: /workshop/production/backend
+  newTag: be372b7a5acca0c4bd0c3f3a45957f084521ea1e
 - name: 654654554686.dkr.ecr.us-east-1.amazonaws.com/workshop/production/backend
   newName: 654654554686.dkr.ecr.us-east-1.amazonaws.com/workshop/production/backend
   newTag: v1.0
-
 - name: 654654554686.dkr.ecr.us-east-1.amazonaws.com/workshop/production/frontend
   newName: 654654554686.dkr.ecr.us-east-1.amazonaws.com/workshop/production/frontend
   newTag: v1.0
