@@ -11,7 +11,7 @@ resources:
 images:
 - name: 654654554686.dkr.ecr.us-east-1.amazonaws.com/workshop/production/backend
   newName: 654654554686.dkr.ecr.us-east-1.amazonaws.com/workshop/production/backend
-  newTag: a50c868b113cdd77102da4ec41b089900b27ee1c
+  newTag: 9d77e49e385e7e11c9c2e74d37a82f5507fc10d9
 - name: 654654554686.dkr.ecr.us-east-1.amazonaws.com/workshop/production/frontend
   newName: 654654554686.dkr.ecr.us-east-1.amazonaws.com/workshop/production/frontend
   newTag: v1.0
