@@ -14,4 +14,4 @@ images:
   newTag: 9d77e49e385e7e11c9c2e74d37a82f5507fc10d9
 - name: 654654554686.dkr.ecr.us-east-1.amazonaws.com/workshop/production/frontend
   newName: 654654554686.dkr.ecr.us-east-1.amazonaws.com/workshop/production/frontend
-  newTag: v1.0
+  newTag: 9d77e49e385e7e11c9c2e74d37a82f5507fc10d9
